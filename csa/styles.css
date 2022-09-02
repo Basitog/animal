@@ -1,0 +1,276 @@
+body{
+    background-color: gainsboro;
+}
+.das{
+    height: 50px;
+    width: 100%;
+    background-color: gainsboro;
+}
+.voc{
+    height: 10px;
+    width: 8%;
+}
+.xoc{
+    display: inline-block;
+    font-weight: bold;
+    font-size: 10px;
+    padding-left: 100px;
+    padding-top: 30px;
+}
+.mm{
+    height: 80px;
+    width: 100%;
+    background-color: white; 
+}
+.mb{
+    padding-left: 80px;
+    margin-top: 25px;
+}
+.mb{
+    display: inline-flex;
+}    
+ul {
+    list-style: none;
+}
+
+.xz {
+    display: flex;
+    justify-content: space-between;
+}
+
+.xz li {
+    margin-right: 20px;
+}
+.xa{
+    /* display: flex; */
+    display: inline-block;
+    justify-content: space-between;
+}
+.xa li{
+    display: inline-flex;
+    margin-left: 20px;
+    font-family: Nexa-Bold;
+    color: #6504b5;
+    font-size: 20px;
+}
+.mm i{
+    margin-left: 310px;
+}
+.mbd{
+    font-weight: bolder;
+} 
+.las{
+    background-color: white;
+    height: 650px;
+    width: 550px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 450px;
+}
+.alh{
+    text-align: center;
+    padding-top: 60px;
+    font-family: Nexa Bold;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.b{
+    margin-left: 60px;
+    width: 420px;
+    height: 60px;
+    border-radius: 6px;
+}
+button{
+    margin-left: 60px;
+    width: 420px;
+    height: 50px;
+    border-radius: 24px;
+    background-color: #6504b5;
+    border: none;
+    color: white;
+    font-weight: bolder;
+}
+span{
+    margin-left: 20px;
+    text-decoration: underline;
+    color: #6504b5;
+    font-family: Nexa Bold;
+    font-weight: bolder;
+}
+hr{
+    width: 50px;
+} 
+p{
+    text-align: center;
+}
+.qq{
+    margin-left: 60px;
+    width: 420px;
+    height: 50px;
+    border-radius: 24px;
+    background-color: #6504b5;
+    border: none;
+    color: white;
+    font-weight: bolder;
+}
+.qt{
+    margin-left: 60px;
+    width: 420px;
+    height: 50px;
+    border-radius: 24px;
+    background-color: #6504b5;
+    border: none;
+    color: white;
+    font-weight: bolder;
+}
+#tha{
+    text-decoration: underline;
+    color: #6504b5;
+    font-family: Nexa Bold;
+    /* font-weight: bolder; */
+}
+.qaa{
+    height: 20px;
+}
+.blu{
+    width: 100%;
+    height: 40px;
+    background-color: red;
+    margin-top: 20px;
+}
+.pura{
+    display: inline-block;
+}
+#mv{
+    height: 20px;
+    width: 80px;
+    margin-left: 560px;
+}
+#dc{
+    margin-top: 15px;
+    color: white;
+}
+.cur{
+    height: 320px;
+    width: 100%;
+    background-color: #6504b5;
+}
+#sid{
+    height: 290px;
+    width: 450px;
+    /* background-color: pink; */
+    margin-left: 10px;
+    padding: 1px;
+    margin-top: 5px;
+    position: relative;
+}
+.pin{
+    background-color: white;
+    margin-top: 10px;
+}
+#wu{
+    color: black;
+    margin-top: 20px;
+    width: 330px;
+}
+.ant{
+    margin-right: 250px;
+    color: white;
+    font-weight: bolder;
+    font-family: Nexa-Bold;
+}
+.an11{
+    margin-right: 270px;
+    color: white;
+    font-weight: bolder;
+    font-family: Nexa-Bold;
+}
+.an22{
+    margin-right: 270px;
+    color: white;
+    font-weight: bolder;
+    font-family: Nexa-Bold;
+}
+.an33{
+    margin-right: 310px;
+    color: white;
+    font-weight: bolder;
+    font-family: Nexa-Bold;
+}
+#ras{
+    height: 270px;
+    width: 450px;
+    /* background-color: pink; */
+    margin-left: 20px;
+    padding: 1px;
+    margin-top: 5px;
+    position: absolute;
+    top: 889px;
+}
+.sru{
+    display: inline-block;
+}
+.an44{
+    margin-right: 250px;
+    color: white;
+    font-weight: bolder;
+    font-family: Nexa-Bold;
+    font-size: 12px;
+}
+.an55{
+    margin-right: 300px;
+    color: white;
+    font-weight: bolder;
+    font-family: Nexa-Bold;
+    font-size: 12px;
+}
+.an66{
+    margin-right: 270px;
+    color: white;
+    font-weight: bolder;
+    font-family: Nexa-Bold;
+    font-size: 12px;
+}
+.an77{
+    margin-right: 330px;
+    color: white;
+    font-weight: bolder;
+    font-size: 11px;
+    font-family: Nexa-Bold;
+}
+#ban{
+    height: 170px;
+    width: 290px;
+    margin-left: 520px;
+    position: absolute;
+    top: 899px;
+}
+.aty{
+    color: white;
+    font-weight: bolder;
+    font-family: Nexa-Bold;
+}
+.bay{
+    width: 100%;
+    margin-left: 1px;
+    border: white solid;
+    border-radius: 23px;
+    color: white;
+    text-decoration: none;
+    background-color:#6504b5;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    height: 40px;
+}
+.lss{
+    height: 30px;
+    width: 100%;
+    background-color: #2e094d;
+    padding-top: 2px;
+}
+li:hover{
+    cursor: pointer;
+}
+.jiu{
+    color: white;
+}
